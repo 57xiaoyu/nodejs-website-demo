@@ -12,7 +12,8 @@ File Encoding         : 65001
 
 Date: 2017-01-11 16:11:25
 */
-
+CREATE DATABASE node_cms;
+USE node_cms;
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
